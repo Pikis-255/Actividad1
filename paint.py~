@@ -45,12 +45,8 @@ def rectangle(start, end):
     begin_fill()
     
     for count in range(4):
-        if count% 2==0:
-            forward(end.x - start.x)
-            left(90)
-        else:
-            forward(end.y - start.y)
-            left(90)
+        forward(end.x)
+        left(90)
     end_fill()
     
 
