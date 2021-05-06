@@ -7,12 +7,7 @@ En el prograa paint.py se hicieron las modificaciones siguientes:
 	-Triángulo
 	-Rectángulo
 	-Círculo
-	Las modificacione se dieron en las líneas 39-44, 48-60, 65-73. Donde
-	se agregó el código correspondiente para realizar las figuras. Usando
-	en varios casos la librería turtle.
-- Se agregó un color nuevo (rosa):
-	La modificación se agregó en la línea 101, donde se agrega el color
-	rosa y la tecla P para poder cambiar a ese color.
+- Se agregó un color nuevo (rosa)
 El programa, ya modificado, permite realizar líneas, cuadrados, rectángulos y
 círculos de distintos colores.
 Estas modificaciones fueron realizadas por Claudia Paola García Nocetti
