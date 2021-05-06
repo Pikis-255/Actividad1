@@ -1,0 +1,14 @@
+El programa paint.py, es un programa obtenido de la librería freegames,
+la cual contiene diversos programas sencillos para aprender python.
+EL programa permite al usuario, en el archivo original, realizar líneas y
+cuadrados de colores.
+En el prograa paint.py se hicieron las modificaciones siguientes:
+- Se integró el código para poder realizar las figuras siguientes:
+	-Triángulo
+	-Rectángulo
+	-Círculo
+- Se agregó un color nuevo (rosa)
+El programa, ya modificado, permite realizar líneas, cuadrados, rectángulos y
+círculos de distintos colores.
+Estas modificaciones fueron realizadas por Claudia Paola García Nocetti
+[A01424238] y Andrick J.P Landa [A01424206]
