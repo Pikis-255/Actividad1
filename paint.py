@@ -39,14 +39,16 @@ def circle(start, end):
     up()
     goto(start.x, start.y)
     down()
+    begin_fill()
     turtle.circle(end.x - start.x)
+    end_fill()
 
 def rectangle(start, end):
     "Draw rectangle from start to end."
     up()
     goto(start.x, start.y)
     down()
-    begin_fill()
+    turtle.begin_fill()
     
     for count in range(4):
         if count% 2==0:
@@ -55,7 +57,7 @@ def rectangle(start, end):
         else:
             forward(end.y - start.y)
             left(90)
-    end_fill()
+    turtle.end_fill()
     
 
 def triangle(start, end):
@@ -68,7 +70,7 @@ def triangle(start, end):
     for count in range(3):
         forward(end.x - start.x)
         left(120)
-    end_fill
+    end_fill()
 
 def tap(x, y):
     "Store starting point or draw shape."
