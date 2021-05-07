@@ -1,0 +1,42 @@
+commit e11363ef43fb38874df5aa090a567db38e936dab
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 14:17:59 2021 -0500
+
+    docfinalfinal
+
+commit 048f4c5a8b3a88e6495d4217d92271d5e1f0a10c
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 13:38:45 2021 -0500
+
+    Doc
+
+commit 7853509eca21cb0a470f1044464659faac5dad74
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 12:00:54 2021 -0500
+
+    relleno wuuu
+
+commit f821e9b505d6f2c5f6b7798f96f175906ee7ce84
+Merge: dbefc9a b4cbc2a
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 11:34:59 2021 -0500
+
+    Merge branch 'master' of https://github.com/Pikis-255/Actividad1
+
+commit dbefc9a774c472470a60e631b04b33f165d6e914
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 11:34:21 2021 -0500
+
+    color-circulo
+
+commit b4cbc2ae98ed979038a92e4040bf8fa5ada908ae
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Thu May 6 11:13:35 2021 -0500
+
+    Rectangulo y Triangulo
+
+commit 1bf7d085b1866e19c5ff7ef62c67165fe5b92d23
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Thu May 6 10:07:04 2021 -0500
+
+    Inicio
